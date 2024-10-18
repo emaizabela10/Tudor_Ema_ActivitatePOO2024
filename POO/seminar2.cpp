@@ -20,8 +20,6 @@ void afisareTara(Tara tara)
 
 }
 
-
-
 void afisarePointerLaTara(Tara* pt)
 {
 	cout << "Nume:" << pt->denumire << endl;

@@ -24,7 +24,7 @@ void afisareCoordonateGPS(CoordonateGPS l) //void nu returneaza nimic in schimb
    endl = e ca si cum ai da enter pe tastatura
 */
 
-//modul 1
+modul 1
 void modificaAltitudine(CoordonateGPS* l, float nouaAltitudine)
 {
 	l->altitudine = nouaAltitudine;
@@ -84,3 +84,4 @@ int main()
 
 	return 0;
 }
+
